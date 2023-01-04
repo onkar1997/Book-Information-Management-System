@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    background-color: #cdf;
+}
+
+.form-container {
+    width: 40%;
+    margin: 2% auto;
+}
+
+.login-form {
+    margin-top: 6%;
+}
+
+
